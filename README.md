@@ -31,9 +31,9 @@ The project focuses on clarity, simplicity, and a polished user experience.
 
 <img width="400"  alt="Screenshot 2026-01-03 184040" src="https://github.com/user-attachments/assets/2df26d47-3b62-47d5-b2fa-a2e8f384290e" />
 
-<img width="400" alt="Screenshot 2026-01-03 184020" src="https://github.com/user-attachments/assets/604fa78b-c63f-401a-86ad-750742272004" />
-
 <img width="400" alt="Screenshot 2026-01-03 184104" src="https://github.com/user-attachments/assets/7e14cd09-dd42-41f6-8fe3-bf9b75064065" />
+
+<img width="400" alt="Screenshot 2026-01-03 184020" src="https://github.com/user-attachments/assets/604fa78b-c63f-401a-86ad-750742272004" />
 
 ---
 ## ⚙️ Installation & Setup
