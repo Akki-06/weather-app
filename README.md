@@ -28,24 +28,6 @@ The project focuses on clarity, simplicity, and a polished user experience.
 
 ---
 
-## 📂 Project Structure
-
-weather-app/
-├── weather/
-│   ├── static/
-│   │   ├── css/
-│   │   └── icons/
-│   ├── templates/
-│   │   └── index.html
-│   ├── views.py
-│   └── urls.py
-├── db.sqlite3
-├── manage.py
-├── requirements.txt
-└── README.md
-
----
-
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone the Repository
@@ -56,9 +38,9 @@ cd weather-app
 
 ### 2️⃣ Create & Activate Virtual Environment
 
-python -m venv venv
-source venv/bin/activate # macOS / Linux
-venv\Scripts\activate # Windows
+- python -m venv venv
+- source venv/bin/activate # macOS / Linux
+- venv\Scripts\activate # Windows
 
 
 ### 3️⃣ Install Dependencies
@@ -75,11 +57,6 @@ WEATHER_API_KEY = "your_api_key_here"
 
 Get your API key from:  
 https://openweathermap.org/api
-
----
-
-## 🗄️ Run Database Migrations
-
 
 ---
 
